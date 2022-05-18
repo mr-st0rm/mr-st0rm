@@ -2,7 +2,7 @@
 
 
 
-I'm a self-taught Software Engineer from Uzbekistan )
+I'm a self-taught Software Engineer )
 
 **About me**
 
