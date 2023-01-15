@@ -2,9 +2,9 @@
 
 
 
-I'm a self-taught Software Engineer )
+## I'm a self-taught Software Engineer )
 
-**About me**
+## **About me**
 
 - 💼 I'm working on my projects
 
