@@ -1,8 +1,6 @@
 <p align='center'><strong> Azamat (Storm) Software Engineer 👋 </strong></p>
 
-
-
-## I'm a self-taught Software Engineer )
+**I'm a self-taught Software Engineer )**
 
 ## **About me**
 
