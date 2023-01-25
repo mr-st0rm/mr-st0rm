@@ -19,6 +19,6 @@
 [![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)](https://github.com/mr-st0rm)
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-st0rm&show_icons=true&count_private=true&theme=tokyonight" alt="Storm's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-st0rm&layout=compact&theme=tokyonight&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-st0rm&show_icons=true&count_private=true&theme=tokyonight" alt="Storm's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-st0rm&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
-<p align='center'>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mr-st0rm)</p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mr-st0rm)
