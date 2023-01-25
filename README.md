@@ -22,4 +22,4 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-st0rm&show_icons=true&count_private=true&theme=tokyonight" alt="Storm's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-st0rm&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mr-st0rm)
+<p align='center'>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mr-st0rm)</p>
