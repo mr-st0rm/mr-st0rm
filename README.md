@@ -8,8 +8,6 @@
 
 - 📈 I work on myself and improve myself every day
 
-- ❤️ I love writing Python, it's very nice looking
-
 - 💬 Ask me about anything [here](https://github.com/St0rm1k/St0rm1k/issues)
 
 ## 📫 How to reach me
